@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdullah%20Al%20Noman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descSize=20" width="100%" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdullah%20Al%20Noman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descSize=20" width="100%" /> -->
 </div>
 
 <div align="center">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Enthusiast;Building+Real+Products%2C+Not+Clones;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Enthusiast;Building+Real+Products%2C+Not+Clones;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <br/>
